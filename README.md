@@ -2,7 +2,7 @@
 
 ## Análisis de movilidad urbana y productividad económica con Python
 
-Proyecto de análisis de datos desarrollado por **Sergio Yépez** para
+Proyecto de análisis de datos desarrollado por **Sergio Yépez Tapia** para
 explorar la relación entre indicadores de movilidad urbana y
 productividad económica en ciudades de Latinoamérica, integrando
 información de **TomTom Traffic Index** y **OECD Cities**.
@@ -105,7 +105,7 @@ código, las visualizaciones y las conclusiones.
 
 ## 👤 Autor
 
-**Sergio Yépez**\
+**Sergio Yépez Tapia**\
 Ingeniero en Telecomunicaciones y Electrónica \| Data Analyst en
 formación
 
